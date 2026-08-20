@@ -1,0 +1,7 @@
+Cadastro de Produtos: Kindle 16 GB
+
+Código:264 🔢
+Descrição:Leve e compacto, com tela antirreflexo, trocas de página mais rápidas, luz frontal ajustável e bateria de longa duração - Cor Preta
+Categoria:Eletronica
+Valor:600
+Estoque: 15
